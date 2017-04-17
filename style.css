@@ -1,0 +1,10 @@
+table td{
+    width:120px;
+    font-size: 14px;
+    font-family: sans-serif;
+}
+table,td,th{
+    border: 1px solid black;
+    font-size: 14px;
+    font-family: sans-serif;
+}
